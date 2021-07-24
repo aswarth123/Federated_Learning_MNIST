@@ -9,5 +9,5 @@ In cases of non-linear problem , SVM is extended with the hinge loss function an
 ## Federated SVM
 Federated SVM makes use of hinge loss function and updates the model parameter w as ![equation](https://latex.codecogs.com/png.latex?%5Cinline%20%5Cbg_white%20%5Comega%20%5Crightarrow%20%5Comega%20-%20%5Ceta/B%5Csum_%7Bi%5Cepsilon%20B_%7Bk%7B%5Ccolor%7BPink%7D%20%7B%5Ccolor%7BPink%7D%20%7D%7D%7D%20%7D%20y_%7Bi%7D.x_%7Bi%7D) . The below picture gives an overview of federates SVM :-
 <p align="center" width="100%">
-    <img width="500" height="300" src="https://im.ge/i/DT8TC"> 
+    <img width="700" height="350" src="https://i.postimg.cc/tgpMdTsK/fedSVM.png"> 
 </p>
